@@ -76,5 +76,5 @@ Feel free to fork this repository, create a branch, and submit a pull request fo
 
 💡 **Author**: Harsh Chandramania\
 📧 **Contact**: [harshchandramania@gmail.com](mailto\:harshchandramania@gmail.com)\
-🔗 **LinkedIn**: [https://www.linkedin.com/in/harsh-chandramania-427ab4324?utm\_source=share&utm\_campaign=share\_via&utm\_content=profile&utm\_medium=android\_app](https://www.linkedin.com/in/harsh-chandramania-427ab4324?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=android_app)
+🔗 **LinkedIn**: [www.linkedin.com/in/harsh-chandramania-427ab4324)
 
